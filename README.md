@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Korir
 - 👀 I’m interested in Data science and web development
-- 🌱 I’m currently learning Python for data science 
-- 💞️ I’m looking to collaborate on Data science projects 
+- 🌱 I’m currently learning Python and Javascript 
+- 💞️ I’m looking to collaborate on Data science projects and front-end projects 
 - 📫 How to reach me https://www.linkedin.com/in/kevin-korir-8142451bb/
 
 <!---
